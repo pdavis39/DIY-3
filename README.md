@@ -10,6 +10,9 @@ An overview of the project
 
 ![robot architecure](https://github.com/pdavis39/DIY-3/blob/master/images/architecture.png "DIY Archtiecture")
 
+### Robot
+![robot](https://github.com/pdavis39/DIY-3/blob/master/images/robot.jpg "DIY-3 Robot")
+
 ### Images captured by the robot
 
 ![tennis ball](https://github.com/pdavis39/DIY-3/blob/master/images/green_52d246c83f4a480a98c952ee8b772993.jpg "tennis ball")
