@@ -11,7 +11,7 @@ An overview of the project
 ![robot architecure](https://github.com/pdavis39/DIY-3/blob/master/images/architecture.png | width=150)
 
 ### Robot
-![robot](https://github.com/pdavis39/DIY-3/blob/master/images/robot.png)
+
 
 ### Images captured by the robot
 
