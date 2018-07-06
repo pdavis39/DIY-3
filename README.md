@@ -1,5 +1,5 @@
 # DIY-3
-This is a DIY project for a self-balancing robot that can track object autonomously, classify objects via tensorflow and store the metadata in a blockchain
+This is yet another DIY project for a self-balancing robot that can track objects autonomously, classify the objects via tensorflow, Inception V3 model, and store the resulting metadata in a blockchain.
 
 ## Concept
 
