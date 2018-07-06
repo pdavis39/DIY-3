@@ -1,6 +1,10 @@
 # DIY-3
 This is a DIY project for a self-balancing robot that can track object autonomously, classify objects via tensorflow and store the metadata in a blockchain
 
+## Concept
+
+
+
 ## Conceptual Achitecture
 An overview of the project 
 
@@ -12,11 +16,16 @@ An overview of the project
 
 ![easter egg](https://github.com/pdavis39/DIY-3/blob/master/images/blue_0d8fd37a0a0a4128a0b8a697b1cc8cc2.jpg "3D printed Easter Egg")
 
+### Video links
+
+
+
+### Archtiecture Diagrams
+
 
 
 ## Status
-The project is almost done and I'll create a videa and upload the rest of the files soon.
-
+Waiting for one last piece of hardware, the project is almost done and I'll create a videa and upload the rest of the files soon.
 
 # References
 These sites were very useful and provided information that allowed me to build DIY3:
