@@ -4,7 +4,7 @@ This is a DIY project for a self-balancing robot that can track object autonomou
 ## Conceptual Achitecture
 An overview of the project 
 
-![robot architecure](DIY-3/images/DIY_robot_architecture.png "DIY Archtiecture")
+![robot architecure](https://github.com/pdavis39/DIY-3/blob/master/images/architecture.png "DIY Archtiecture")
 
 
 ## Status
