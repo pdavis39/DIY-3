@@ -2,7 +2,9 @@
 This is a DIY project for a self-balancing robot that can track object autonomously, classify objects via tensorflow and store the metadata in a blockchain
 
 ## Conceptual Achitecture
-An overview of the project ![robot architecure](DIY_robot_architecture.png "DIY Archtiecture")
+An overview of the project 
+
+![robot architecure](DIY-3/images/DIY_robot_architecture.png "DIY Archtiecture")
 
 
 ## Status
