@@ -6,6 +6,13 @@ An overview of the project
 
 ![robot architecure](https://github.com/pdavis39/DIY-3/blob/master/images/architecture.png "DIY Archtiecture")
 
+### Images captured by the robot
+
+![tennis ball](https://github.com/pdavis39/DIY-3/blob/master/images/green_52d246c83f4a480a98c952ee8b772993.jpg "tennis ball")
+
+![easter egg](https://github.com/pdavis39/DIY-3/blob/master/images/blue_0d8fd37a0a0a4128a0b8a697b1cc8cc2.jpg "3D printed Easter Egg")
+
+
 
 ## Status
 The project is almost done and I'll create a videa and upload the rest of the files soon.
