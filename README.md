@@ -8,7 +8,7 @@ This is yet another DIY project for a self-balancing robot that can track object
 ## Conceptual Achitecture
 An overview of the project 
 
-![robot architecure](https://github.com/pdavis39/DIY-3/blob/master/images/architecture.png "DIY-3 Architecture")
+![robot architecure](https://github.com/pdavis39/DIY-3/blob/master/images/0-arch.png "DIY-3 Architecture")
 
 ### Robot
 ![robot](https://github.com/pdavis39/DIY-3/blob/master/images/robot.png "DIY-3 Robot")
@@ -23,8 +23,8 @@ An overview of the project
 
 
 
-### Archtiecture Diagrams
-
+### Blockchain Schema
+![robot architecure](https://github.com/pdavis39/DIY-3/blob/master/images/schema.png "Blockchain Schema")
 
 
 ## Status
