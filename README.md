@@ -2,7 +2,7 @@
 This is yet another DIY project for a self-balancing robot that can track objects autonomously, classify the objects via Tensorflow, Inception V3 model, and store the resulting metadata in a blockchain.
 
 ## Concept
-
+coming soon
 
 
 ## Conceptual Achitecture
@@ -20,10 +20,12 @@ An overview of the project
 ![easter egg](https://github.com/pdavis39/DIY-3/blob/master/images/blue_0d8fd37a0a0a4128a0b8a697b1cc8cc2.jpg "3D printed Easter Egg")
 
 ### Video links
-
+coming soon
 
 
 ### Blockchain Schema
+Below is the schema for storing image metadata in the blockchain with the participants are mapped to which attributes they create and or update 
+
 ![robot architecure](https://github.com/pdavis39/DIY-3/blob/master/images/schema.png "Blockchain Schema")
 
 
