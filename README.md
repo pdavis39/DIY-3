@@ -30,7 +30,7 @@ Below is the schema for storing image metadata in the blockchain with the partic
 
 
 ## Status
-Waiting for one last piece of hardware, the project is almost done and I'll create a videa and upload the rest of the files soon.
+Just a bit more coding for the automomous capability and I'll create a videa and upload the rest of code soon.
 
 # References
 These sites were very useful and provided information that allowed me to build DIY3:
