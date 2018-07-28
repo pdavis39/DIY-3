@@ -46,3 +46,4 @@ https://medium.com/@julsimon/keras-shoot-out-part-2-a-deeper-look-at-memory-usag
 https://github.com/tshino/compare
 https://websockets.readthedocs.io/en/stable/intro.html#python-lt-36 
 https://www.thingiverse.com/thing:2829553
+https://tutorials-raspberrypi.com/raspberry-pi-ultrasonic-sensor-hc-sr04/
