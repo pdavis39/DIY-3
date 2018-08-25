@@ -30,9 +30,6 @@ Below is the schema for storing image metadata in the blockchain with the partic
 ![robot architecure](https://github.com/pdavis39/DIY-3/blob/master/images/schema.png "Blockchain Schema")
 
 
-## Status
-Just a bit more coding for the automomous capability and I'll create a videa and upload the rest of code soon.
-
 # References
 These sites were very useful and provided information that allowed me to build DIY3:
 https://www.pyimagesearch.com/2015/12/14/installing-opencv-on-your-raspberry-pi-zero/
