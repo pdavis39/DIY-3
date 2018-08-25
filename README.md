@@ -2,7 +2,8 @@
 This is yet another DIY project for a self-balancing robot that can track objects autonomously, classify the objects via Tensorflow, Inception V3 model, and store the resulting metadata in a blockchain.
 
 ## Concept
-coming soon
+The concept for this project was to show how a blockchain could be used when an organization wanted to improve the quality of their image classifications.  In this demo the business-network is made up of the robot, Jetson TX2 and a raspberry pi in the role of an analyst.
+
 
 
 ## Conceptual Achitecture
