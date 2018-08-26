@@ -12,7 +12,7 @@ An overview of the project
 ![robot architecure](https://github.com/pdavis39/DIY-3/blob/master/images/0-arch.png "DIY-3 Architecture")
 
 ### Robot
-![robot](https://github.com/pdavis39/DIY-3/blob/master/images/fullsizeoutput_1737.jpeg "DIY-3 Robot")
+![robot](https://github.com/pdavis39/DIY-3/blob/master/images/robot.png "DIY-3 Robot")
 
 ### Images captured by the robot
 
