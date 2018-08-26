@@ -1,6 +1,9 @@
 # DIY-3
 This is yet another DIY project for a self-balancing robot that can track objects autonomously, classify the objects via Tensorflow, Inception V3 model, and store the resulting metadata in a blockchain.
 
+## Video links
+coming soon
+
 ## Concept
 The concept for this project was to show how a blockchain could be used when an organization wanted to improve the quality of their image classifications.  In this demo the business-network is made up of the robot, Jetson TX2 and a raspberry pi in the role of an analyst.
 
@@ -19,10 +22,6 @@ An overview of the project
 ![tennis ball](https://github.com/pdavis39/DIY-3/blob/master/images/green_52d246c83f4a480a98c952ee8b772993.jpg "tennis ball")
 
 ![easter egg](https://github.com/pdavis39/DIY-3/blob/master/images/blue_0d8fd37a0a0a4128a0b8a697b1cc8cc2.jpg "3D printed Easter Egg")
-
-### Video links
-coming soon
-
 
 ### Blockchain Schema
 Below is the schema for storing image metadata in the blockchain with the participants are mapped to which attributes they create and or update 
